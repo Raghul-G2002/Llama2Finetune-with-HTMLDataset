@@ -43,4 +43,4 @@ Used BLEU Score (BiLingual Evaluation UnderStudy) is the major metric, I've used
 Used Flask API to create an endpoint for the user to integrate with the natural language prompt. 
 
 ## License
-[llama2] {}
+[Llama2 from Meta](https://github.com/facebookresearch/llama/blob/main/LICENSE)
